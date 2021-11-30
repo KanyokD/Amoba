@@ -1,0 +1,44 @@
+C:\Users\kanyo\source\repos\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.exe
+C:\Users\kanyo\source\repos\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.deps.json
+C:\Users\kanyo\source\repos\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.runtimeconfig.json
+C:\Users\kanyo\source\repos\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.runtimeconfig.dev.json
+C:\Users\kanyo\source\repos\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.dll
+C:\Users\kanyo\source\repos\Amoba\Amoba\bin\Debug\net5.0-windows\ref\Amoba.dll
+C:\Users\kanyo\source\repos\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.pdb
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.csprojAssemblyReference.cache
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba_MarkupCompile.cache
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba_MarkupCompile.lref
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.g.resources
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.AssemblyInfoInputs.cache
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.AssemblyInfo.cs
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.csproj.CoreCompileInputs.cache
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.dll
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\ref\Amoba.dll
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.pdb
+C:\Users\kanyo\source\repos\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.genruntimeconfig.cache
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.exe
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.deps.json
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.runtimeconfig.json
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.runtimeconfig.dev.json
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.dll
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\bin\Debug\net5.0-windows\ref\Amoba.dll
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\bin\Debug\net5.0-windows\Amoba.pdb
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.csprojAssemblyReference.cache
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba_MarkupCompile.cache
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba_MarkupCompile.lref
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.g.resources
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.AssemblyInfoInputs.cache
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.AssemblyInfo.cs
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.csproj.CoreCompileInputs.cache
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.dll
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\ref\Amoba.dll
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.pdb
+C:\Users\kanyo\OneDrive\Asztali gép\Alkalmazások\Amoba\Amoba\obj\Debug\net5.0-windows\Amoba.genruntimeconfig.cache
